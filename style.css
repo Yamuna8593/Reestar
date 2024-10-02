@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.section-title{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+.container{
+    margin-top: 10px;
+}
+.Section-image{
+    border: solid black 2px;
+    display: inline-block;
+    height: 300px;
+    width: 200px;
+}
+.section-image__button{
+    background-color: black;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: none;
+
+}
+.section-contact{
+    background-color: black;
+    color: white;
+    margin-top: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.section-contact__button{
+    background-color: yellowgreen;
+
+padding-left: 150px;
+padding-right: 150px;
+border: none;
+}
